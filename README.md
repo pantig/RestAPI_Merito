@@ -34,7 +34,7 @@ REST API oparte na .NET 8 z ASP.NET Core, wykorzystujace EntityFramework i Micro
 
 1. Sklonuj repozytorium:
    ```bash
-   git clone https://github.com/pantig/RestAPI_WSB.git
+   git clone https://github.com/pantig/RestAPI_Merito.git
    cd RestAPI_WSB/RestAPI_WSB
    ```
 
